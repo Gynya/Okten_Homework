@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5c81c5f-31d9-45c5-9fb9-1760a276be33" name="Changes" comment="HUI" />
+    <list default="true" id="3207b155-8800-4cff-b79c-19f76120f8d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/.idea/Lesson1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Okten.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GH9d6ejA6x0u8PI3vrvRh4xNS3" />
+  <component name="ProjectId" id="2GHE17LwzMvx87oG99qp4eORnHA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,51 +33,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Programms/Programming/Project/Okten/Lesson1",
-    "nodejs_package_manager_path": "npm"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5c81c5f-31d9-45c5-9fb9-1760a276be33" name="Changes" comment="" />
-      <created>1666034726987</created>
+      <changelist id="3207b155-8800-4cff-b79c-19f76120f8d8" name="Changes" comment="" />
+      <created>1666036907437</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666034726987</updated>
-      <workItem from="1666034728518" duration="132000" />
-      <workItem from="1666034869928" duration="337000" />
-      <workItem from="1666035213016" duration="23000" />
-      <workItem from="1666035237712" duration="17000" />
-      <workItem from="1666035257041" duration="19000" />
-      <workItem from="1666035277678" duration="690000" />
-      <workItem from="1666035989572" duration="338000" />
-      <workItem from="1666036335441" duration="86000" />
-      <workItem from="1666036424799" duration="173000" />
+      <updated>1666036907437</updated>
+      <workItem from="1666036918580" duration="7643000" />
     </task>
-    <task id="LOCAL-00001" summary="Save Lesson1 and create Lesson2">
-      <created>1666035070518</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1666035070518</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Save Lesson1 and create Lesson2">
-      <created>1666035126447</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1666035126447</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Save Lesson1 and create Lesson2">
-      <created>1666036476771</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1666036476771</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,9 +62,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Save Lesson1 and create Lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save Lesson1 and create Lesson2" />
   </component>
 </project>
